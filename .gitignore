@@ -1,6 +1,11 @@
-.idea
+.idea/
+.tox/
 /toxapp/migrations/
 
-#
+# intermediary files
+
 *.pyc
 *.swap
+
+.eggs/
+UNKNOWN.egg-info/
