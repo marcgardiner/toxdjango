@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = (
+    'toxapp',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
